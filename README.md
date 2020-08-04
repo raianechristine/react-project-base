@@ -4,7 +4,7 @@ This project is an initial base of a react project, using Saga, Redux, Hooks and
 
 # How to run
 
-$ yarn (or npm install)
+$ yarn (or npm install) \
 $ yarn start (or npm run start)
 
 # Libraries
